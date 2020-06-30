@@ -1,0 +1,145 @@
+[博客简介] 本博客词云
+非华为电脑配对华为手机（RMB+5899￥）
+Visdom：Python可视化神器
+kite：Python 代码自动补全神器
+paper reading：Part-based Graph Convolutional Network for Action Recognition
+paper reading：[renormalization]Semi-supervised Classification with Graph Convolutional Networks
+[GCN] 增加可视化+代码注释 of GitHub项目：Graph Convolutional Networks in PyTorch
+[GCN] Modification of Graph Convolutional Networks in PyTorch
+Markdown使用
+paper reading：[第一代GCN] Spectral Networks and Deep Locally Connected Networks on Graphs
+flashtorch：卷积神经网络的可视化
+[转] PyTorch 0.4新版本 升级指南 no_grad
+[Python+Anaconda] 查看Python、Anaconda下python、CUDA、函数库的版本
+RIGOL示波器编程使用
+[汇编语言&amp;计算机原理] 带开机音乐，速度、进度和行驶方向显示的出租出计费系统设计
+[PyTorch] PyTorch版本不兼容问题+更新日志链接
+[PyTorch] 记录一次PyTorch版本更新
+[高光谱] 开源项目Hyperspectral-Classification Pytorch解析之main
+[高光谱] Hyperspectral-Classification-master 网络模型解析
+[高光谱] Hyperspectral-Classification Pytorch 数据集的读取、划分、加载
+[高光谱] Hyperspectral-Classification Pytorch 的高光谱场景的通用类 HyperX
+[debug] 令人智熄的调试：忘记加return
+[高光谱] 在开源项目Hyperspectral-Classification Pytorch中加入自己的网络
+[TorchSummary+TorchSnooper] 一次TorchSummary可视化网络的调试+TorchSnooper的第一次实际使用
+[高光谱] GitHub开源项目Hyperspectral-Classification的解析
+[机器学习] 训练过程中的train，val，test的区别
+[Python] numpy.ndenumerate() 获得一对数组坐标和值
+[Python] random.uniform( ) 函数教程与实例解析
+[Python] numpy.fliplr()和numpy.flipud() 数组的翻转
+[Python] 矩阵拼接 np.c_[a,b]和np.r_[a,b]
+[Python]  扁平化函数 ravel()和flatten()
+[Python] 堆叠函数 stack((a,b), axis=0)
+[Python] zeros(r, c)和ones(r, c)和eye(n) 生成特殊矩阵
+[Python] np.unique(ndarray)  返回ndarray的无重复元素的数组
+[Python] np.nonzero(ndarray)  返回数组中不为0的元素的索引
+[Python] np.ones_like(ndarray)和np.zeros_like(ndarray)
+[Python] np.array()  创建ndarray类型的数组
+[Python] set()函数 创建一个无序不重复元素集
+[Python+sklearn] 拆分数据集为训练和测试子集 sklearn.model_selection.train_test_split()
+[Python] zip() 函数
+[Python+sklearn] 计算混淆矩阵 confusion_matrix()函数
+[debug] “ImportError DLL load failed 找不到指定的程序”的解析和解决办法。
+[Python] itertools.islice(iterable, start, stop[, step]) 创建迭代器并返回所选元素
+[Python] 生成迭代器 iter() 函数
+[Python] 关键字 yield 用法详解
+[Python]  * 和 ** 的用法
+[高光谱] GitHub开源项目Hyperspectral-Classification的解析
+[机器学习] 混淆矩阵和kappa系数
+[Python] 最常见括号()、[]、{}的区别
+[Python] 关键字 assert
+[Python] 以字典类型提取对象的属性和属性值——vars()函数
+[转] 面向对象编程 - 获取对象信息
+[转] 面向对象编程 - 继承和多态
+[转] 面向对象编程 - 访问限制
+[转] 面向对象编程 - 类和实例
+[转] 面向对象编程介绍
+[Python] 函数来判断一个对象是否是一个已知的类型：isinstance(object, classinfo)
+[Python] 字典 get()函数和setdefault()函数
+[Python] 读取存储.mat数据 scipy.io.loadmat()和scipy.io.savemat()
+[Python] 字符串大写变小写 lower()函数
+[Python] os.path.splitext(&quot;path&quot;)：分离文件名与扩展名
+[python+pip] 使用pip将函数库安装到Python环境或Anaconda环境
+[再学Python] - 面向对象的程序设计- 对象和类
+[Python] argparse命令行解析器的使用
+[debug] 命令行窗口运行.py文件，报错&quot;No module named XXX&quot;
+[debug] 开源项目的本地使用：使用pip安装的函数库不能被anaconda和pycharm使用+visdom使用 +路径问题
+paper reading：高光谱遥感影像空谱特征提取与分类方法研究 - 康旭东
+吴恩达神经网络和深度学习-学习笔记-45-完全版YOLO算法
+吴恩达神经网络和深度学习-学习笔记-44-anchor box
+吴恩达神经网络和深度学习-学习笔记-43-Bounding box 预测 + YOLO算法
+吴恩达神经网络和深度学习-学习笔记-42-目标检测
+吴恩达神经网络和深度学习-学习笔记-41-特征点检测
+吴恩达神经网络和深度学习-学习笔记-40-目标定位
+吴恩达神经网络和深度学习-学习笔记-39-计算机视觉现状
+吴恩达神经网络和深度学习-学习笔记-38-使用开源的方案+迁移学习+数据增强data augmentation
+吴恩达神经网络和深度学习-学习笔记-37-inception网络
+吴恩达神经网络和深度学习-学习笔记-36-网络中的网络以及1×1卷积
+吴恩达神经网络和深度学习-学习笔记-35-残差网络（Residual Network）
+吴恩达神经网络和深度学习-学习笔记-34-LeNet-5 + Alexnet + VGG
+吴恩达神经网络和深度学习-学习笔记-33-为什么使用卷积
+吴恩达神经网络和深度学习-学习笔记-32-卷积神经网络示例
+吴恩达神经网络和深度学习-学习笔记-31-池化层
+吴恩达神经网络和深度学习-学习笔记-30-相关符号和计算+单层卷积网络+简单卷积网络示例
+吴恩达神经网络和深度学习-学习笔记-29-卷积的基础知识
+吴恩达神经网络和深度学习-学习笔记-28-端到端的深度学习（end-to-end deep learning ）
+吴恩达神经网络和深度学习-学习笔记-27-多任务学习
+吴恩达神经网络和深度学习-学习笔记-26-迁移学习（transfer learning）
+吴恩达神经网络和深度学习-学习笔记-25-定位数据不匹配
+吴恩达神经网络和深度学习-学习笔记-24-在不同的划分上进行训练和测试+不匹配数据划分的偏差和方差
+吴恩达神经网络和深度学习-学习笔记-23-快速搭建你的第一个系统原型，然后迭代
+吴恩达神经网络和深度学习-学习笔记-22-误差分析
+吴恩达神经网络和深度学习-学习笔记-21-何时该改变开发集+测试集或指标
+吴恩达神经网络和深度学习-学习笔记-20-训练/开发/测试集划分
+吴恩达神经网络和深度学习-学习笔记-19-机器学习策略（正交化+单一数字评估指标）
+吴恩达神经网络和深度学习-学习笔记-18-Softmax回归
+吴恩达神经网络和深度学习-学习笔记-17-batch归一化（Batch Normalization）（BN）
+吴恩达神经网络和深度学习-学习笔记-16-超参数的系统的调整方法
+吴恩达神经网络和深度学习-学习笔记-15-局部最优
+吴恩达神经网络和深度学习-学习笔记-14-学习率衰减
+吴恩达神经网络和深度学习-学习笔记-13-Aadm优化算法（Momentum + RMSprop）
+吴恩达神经网络和深度学习-学习笔记-12-RMSprop算法
+吴恩达神经网络和深度学习-学习笔记-11-Momentum梯度下降法
+吴恩达神经网络和深度学习-学习笔记-10-指数加权平均法 + 偏差修正
+吴恩达神经网络和深度学习-学习笔记-9-mini-batch梯度下降法
+吴恩达神经网络和深度学习-学习笔记-8-梯度消失与爆炸 + 梯度检测
+吴恩达神经网络和深度学习-学习笔记-8-归一化输入Normalizing inputs
+吴恩达神经网络和深度学习-学习笔记-7-正则化regularization方法
+吴恩达神经网络和深度学习-学习笔记-6-训练集、验证集和测试集 + 偏差bias和方差variance
+吴恩达神经网络和深度学习-学习笔记-5-参数和超参数
+吴恩达神经网络和深度学习-学习笔记-4-深度网络
+吴恩达神经网络和深度学习-学习笔记-3-参数随机初始化
+吴恩达神经网络和深度学习-学习笔记-2-激活函数
+[再学Python] - 7 - 文件
+[Python] 根据提供的函数对指定序列做映射：map() 函数
+[再学Python] - 6 - 函数的定义调用与返回
+[再学Python] - 5 - 布尔操作符
+[再学Python] - 4 - 循环
+[再学Python] - 3 - 异常处理 try…except…
+[再学Python] - 2 - math库和random库
+[再学Python] - 1 - 数据类型
+[Verilog] 实现数字钟（自动计时+手动校准+倒计时+设置闹钟）附完整源代码
+[Python] 索引序列函数：enumerate()  / enumerate(sequence, start=0)
+[Python] 字典(Dictionary) items()方法
+[PyTorch] torchvision库及其常用的函数
+[深度学习] 神经网络中的 batch 和 epoch
+[Python] 创建一个整数列表：range()
+[PyTorch] 拼接多个tensor：torch.cat((A,B),axis)
+[PyTorch] 保存模型和恢复模型
+[深度学习] 池化层函数及其逆过程函数
+[PyTorch] 卷积函数 and 解卷积函数
+[Python] 更改矩阵形状：reshape(m,n)、view(m,n)和view_as(tensor)
+[Python] 维度交换函数：transpose(m,n,r)和permute(m,n,r)
+[Python] 增加维度或者减少维度：a.squeeze(axis) 和 a.unsqueeze(axis)
+[Python] 绘图函数：matplotlib
+[深度学习] 深度学习常见概念
+[Python] numpy库的简介和常用函数
+[PyTorch] 基于python和pytorch的多项式回归
+[PyTorch] 基于Python和PyTorch的线性拟合
+pytorch深度网络框架中的数据预处理（待填坑）
+pytorch中搭建神经网络的步骤（待填坑）
+[PyTorch] 深度学习框架PyTorch中的概念和函数
+[PyTorch] PyTorch深度学习网络框架的搭建
+[PyTorch] 基于Python和PyTorch的MNIST的手写数字数据集的分类
+[PyTorch] 基于Python和PyTorch的cifar-10分类
+写博客的初衷
